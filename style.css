@@ -1,0 +1,56 @@
+body {
+    background-color:lightslategray;
+    margin-bottom:10px;
+}
+
+
+.navbar {
+    background-color:#ffffff;
+    border-bottom:#cccccc solid 2px;
+}
+
+#kimani-kelly {
+    font-family:Georgia,'Times New Roman', Times, serif;
+    color:#ffffff;
+    background-color:#4aaaa5;
+    margin-right:63%;
+    margin-left:202px;
+    padding-left:27px;
+    padding-top:10px;
+    padding-right:27px;
+    /*height:82px;*/
+    
+    
+}
+
+#main-content{
+    background-color:#ffffff;
+    margin-top:38px;
+    margin-left:220px;
+    height:557px;
+    width:960px;
+}
+
+#about-me {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    line-height:298%;
+    padding-left:30px;
+}
+
+img {
+    width:200px;
+    height:155px;
+    margin-left:30px;
+    margin-right:12px;
+}
+
+ p {
+     color:#777777;
+     line-height:36px;
+     font-size:large;
+     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     padding-left:27px;
+ }
+
+ 
