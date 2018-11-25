@@ -1,9 +1,10 @@
 body {
     background-color:lightslategray;
-    margin-bottom:10px;
+    
+    
 }
 
-
+/*
 .navbar {
     background-color:#ffffff;
     border-bottom:#cccccc solid 2px;
@@ -18,10 +19,12 @@ body {
     padding-left:27px;
     padding-top:10px;
     padding-right:27px;
-    /*height:82px;*/
+    
     
     
 }
+
+
 
 #main-content{
     background-color:#ffffff;
@@ -51,6 +54,83 @@ img {
      font-size:large;
      font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
      padding-left:27px;
- }
-
+ }*/
  
+
+
+
+
+/*.main-content {
+    background-color:#ffffff;
+    margin-top:15px;
+    width:960px;
+    height:555px;
+
+}
+
+.about-me {
+    padding-top:38px;
+    padding-bottom:25px;
+    border-bottom:2px solid black;
+    
+}*/
+.container {
+    background-color:#ffffff;
+    margin-top:2%;
+
+    width:960px;
+
+}
+
+/*.navbar {
+    background-color:#ffffff !important;
+    margin-bottom:0px !important;
+}*/
+
+.
+
+.kimani-kelly {
+    background-color:#4aaaa5;
+    padding-bottom:10px !important;
+    padding-top:10px;
+    padding-right:23px;
+    padding-left:30px;
+    margin-left:188px;
+  
+}
+
+
+#about-me {
+    margin-left:13.4px;
+    margin-top:16%;
+    color:#4aaaa5;
+    padding-bottom:10px;
+    
+}
+
+img {
+    width:202px;
+    height:150px;
+    margin-top:23px;
+    margin-left:13px;
+}
+
+p {
+    margin-top:18%;
+    line-height:36px;
+    
+}
+
+footer {
+    background-color:#666666;
+    border-bottom:8px solid black;
+    margin-top:10px;
+    border-top:8px solid #4aaaa5;
+    padding-bottom:35px;
+    
+}
+
+#copyright {
+    text-align:center;
+    padding-top:10px;
+}
